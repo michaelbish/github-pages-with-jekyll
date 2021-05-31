@@ -1,3 +1,8 @@
+---
+title: "My first blog post"
+date: 2021-05-31
+---
+
 # My First Blog Post #
 *Michael Biesheuvel*
 
